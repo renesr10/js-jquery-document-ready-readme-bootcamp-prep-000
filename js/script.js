@@ -1,5 +1,5 @@
 src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"
 
-$(document).ready(function() {
+(document).ready(function() {
     ("#text").append("this is so freaking cool.");
 });
